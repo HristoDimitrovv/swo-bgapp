@@ -2,5 +2,5 @@
    $database = "bulgaria";
    $user = "user";
    $password  = "Password1";
-   $host = "db";
+   $host = "db-fqdn";
 ?>
