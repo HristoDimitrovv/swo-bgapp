@@ -1,2 +1,1 @@
-# swo-bgapp
-bgapp
+# web-app
